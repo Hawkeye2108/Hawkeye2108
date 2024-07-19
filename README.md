@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jatin-rawat-4a15141a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jatin-rawat-4a15141a0/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jatinrawat" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/jatinrawat" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jatinrawat" target="_blank"><img align="center" src="https://asset.brandfetch.io/idM2-b7Taf/id9CeVm2nY.png" alt="https://www.codechef.com/users/jatinrawat" height="30" width="70" /></a>
 <a href="https://leetcode.com/u/jatinrawat2108/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jatinrawat2108/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/jatinrawk4wy/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/jatinrawk4wy/" height="30" width="40" /></a>
 </p>
